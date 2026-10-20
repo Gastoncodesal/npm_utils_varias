@@ -1,6 +1,6 @@
 {
   "name": "utils-extra-gaston",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Librería de utilidades JavaScript para textos, validaciones y arrays",
   "main": "src/index.js",
   "type": "module",
